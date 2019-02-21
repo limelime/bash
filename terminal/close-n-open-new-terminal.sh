@@ -1,5 +1,5 @@
 #!/bin/bash
-# Description: Close current terminal and open a new terminal.
+# Description: Open a new terminal and close the current terminal.
 # Author: Xuan Ngo
 # Require: nohup, xfce4-terminal
  
